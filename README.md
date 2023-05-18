@@ -3,6 +3,14 @@
 - 📫 How to reach me: gustafstar@hotmail.com
 - 🌱 I’m currently learning:
 
+## See my repositories for my finished projects:
+- Html and CSS 
+https://github.com/gStarhigh/pro1
+- JavaScript
+https://github.com/gStarhigh/pro2
+- Python
+https://github.com/gStarhigh/pro3
+
 ## My skills are:
 
 ### Languages 📋
