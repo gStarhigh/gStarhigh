@@ -1,7 +1,6 @@
 ### Hi there I'm Gustaf👋
 
 - 📫 How to reach me: gustafstar@hotmail.com
-- 🌱 I’m currently learning:
 
 ## See my repositories for my finished projects:
 - Html and CSS:
