@@ -6,15 +6,15 @@
 ## See my repositories for my finished projects:
 - Html and CSS:
 https://github.com/gStarhigh/pro1
--- Finished project:
+  - Finished project:
 https://gstarhigh.github.io/pro1/
 - JavaScript:
 https://github.com/gStarhigh/pro2
--- Finished project:
+  - Finished project:
 https://gstarhigh.github.io/pro2/
 - Python:
 https://github.com/gStarhigh/pro3
--- Finished project:
+  - Finished project:
 https://star-pro3.herokuapp.com/
 
 ## My skills are:
