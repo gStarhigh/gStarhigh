@@ -18,8 +18,7 @@ https://github.com/gStarhigh/pro3
   - Finished project:
 https://star-pro3.herokuapp.com/
 
-## Currently:
-- 🌱 I’m currently learning:
+## - 🌱 I’m currently learning:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -50,7 +49,7 @@ https://star-pro3.herokuapp.com/
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 
 
-### Hosting / SAAS
+### Hosting
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 
