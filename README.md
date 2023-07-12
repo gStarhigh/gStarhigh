@@ -3,7 +3,7 @@
 - 📫 How to reach me: gustafstar@hotmail.com
 
 ## See my repositories for my finished projects:
-- Html and CSS:
+- Html and CSS ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white):
 https://github.com/gStarhigh/pro1
   - Finished project:
 https://gstarhigh.github.io/pro1/
@@ -20,6 +20,10 @@ https://github.com/gStarhigh/pro3
   - Finished project:
 https://star-pro3.herokuapp.com/
 Grade = Merit!
+
+- Django:
+https://github.com/gStarhigh/pro4
+- Finished Project:
 
 ## - 🌱 I’m currently learning:
 
