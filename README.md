@@ -26,6 +26,11 @@ https://github.com/gStarhigh/pro4
 - Finished Project:
 https://star-pro4-3dc81848625c.herokuapp.com/
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) Repo:
+https://github.com/gStarhigh/pro5
+- Deployed(Ongoing) Project:
+https://pro5-aeecc7322fbc.herokuapp.com/
+
 ## - 🌱 I’m currently learning:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
