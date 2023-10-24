@@ -34,7 +34,6 @@ https://pro5-aeecc7322fbc.herokuapp.com/
 
 ## - 🌱 I’m currently learning:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ## My skills are:
@@ -54,7 +53,6 @@ https://pro5-aeecc7322fbc.herokuapp.com/
 
 ### Databases 💾 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 ### Testing 🧪 
@@ -63,7 +61,6 @@ https://pro5-aeecc7322fbc.herokuapp.com/
 ### Version Control 🕓 :
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 
 
 ### Hosting:
@@ -72,6 +69,7 @@ https://pro5-aeecc7322fbc.herokuapp.com/
 
 ### IDEs/Editors 💻 :
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 
 
 <!--
