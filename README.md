@@ -72,10 +72,6 @@ https://pro5-aeecc7322fbc.herokuapp.com/
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 
 ### Fun information:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=christiangoran&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christiangoran&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=christiangoran.christiangoran)
 
 <!--
 **gStarhigh/gStarhigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
