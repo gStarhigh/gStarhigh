@@ -34,7 +34,6 @@ https://pro5-aeecc7322fbc.herokuapp.com/
 Awaiting grade.
 
 ## - 🌱 I’m currently learning:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 ## My skills are:
@@ -51,6 +50,7 @@ Awaiting grade.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Databases 💾 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -76,18 +76,3 @@ Awaiting grade.
 ![gStarhigh's Stats](https://github-readme-stats.vercel.app/api?username=gStarhigh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![gStarhigh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gStarhigh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![](https://komarev.com/ghpvc/?username=gStarhigh&color=brightgreen) Since 2023-10-31.
-
-<!--
-**gStarhigh/gStarhigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
