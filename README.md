@@ -29,8 +29,9 @@ Grade = Merit!
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) Repo:
 https://github.com/gStarhigh/pro5
-- Deployed(Ongoing) Project:
+- Finished Project:
 https://pro5-aeecc7322fbc.herokuapp.com/
+Awaiting grade.
 
 ## - 🌱 I’m currently learning:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
