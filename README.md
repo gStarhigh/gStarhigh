@@ -31,7 +31,9 @@ Grade = Merit!
 https://github.com/gStarhigh/pro5
 - Finished Project:
 https://pro5-aeecc7322fbc.herokuapp.com/
-Awaiting grade.
+Grade = Merit!
+
+Diploma as a Fullstack Software Developer from Code Institute with the total grade of Merit!
 
 ## - 🌱 I’m currently learning:
 
