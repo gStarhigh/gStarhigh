@@ -28,6 +28,7 @@ https://github.com/gStarhigh/pro5
 Grade = Merit!
 
 The above projects were made for my course at Code Institute.
+
 Diploma as a Fullstack Software Developer from Code Institute with the total grade of Merit!
 
  In progress:
