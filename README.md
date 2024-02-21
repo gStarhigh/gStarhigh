@@ -27,12 +27,14 @@ Grade = Merit!
 https://github.com/gStarhigh/pro5
 Grade = Merit!
 
+The above projects were made for my course at Code Institute.
+Diploma as a Fullstack Software Developer from Code Institute with the total grade of Merit!
+
  In progress:
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) Repo:
 https://github.com/gStarhigh/starhogfarm
 
 
-Diploma as a Fullstack Software Developer from Code Institute with the total grade of Merit!
 
 ## - 🌱 I’m currently learning:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
