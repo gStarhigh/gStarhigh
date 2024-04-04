@@ -42,6 +42,9 @@ Deployed at: https://www.starhoggard.se/
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![GTM](https://img.shields.io/badge/GoogleTagManager-blue)
+![Voyado](https://img.shields.io/badge/Voyado-orange)
+![esales](https://img.shields.io/badge/Esales-green)
 
 ## My skills are:
 
