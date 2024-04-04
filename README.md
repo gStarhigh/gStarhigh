@@ -34,7 +34,8 @@ Diploma as a Fullstack Software Developer from Code Institute with the total gra
  In progress:
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) Repo:
 https://github.com/gStarhigh/starhogfarm
-Deployed at: https://www.starhoggard.se/
+
+  Deployed at: https://www.starhoggard.se/
 
 
 
